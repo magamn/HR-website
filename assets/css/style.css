@@ -598,7 +598,7 @@ img {
   position: relative;
   width: 100%;
   padding: 0px 50px;
-  border-bottom: 1px solid #eae0d9;
+  border-bottom: 1px solid #2d9297;
 }
 
 .main-header .header-top .top-inner{
@@ -811,6 +811,7 @@ img {
   background: #ffffff;
   margin-right: 75px;
   border-bottom-right-radius: 50px;
+  border-bottom: 2px solid #2d9297;
 }
 
 .main-header .menu-right-content{
@@ -7726,7 +7727,7 @@ div#mCSB_1_container{
 .page-title:before{
   position: absolute;
   content: '';
-  background: #352027;
+  background: #2d9297;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -9778,7 +9779,7 @@ div#mCSB_1_container{
 
 .service-sidebar .categories-widget .categories-list li a.active,
 .service-sidebar .categories-widget .categories-list li a:hover{
-  background: #462b34;
+  background: #2d9297;
   color: #fff;
 }
 
