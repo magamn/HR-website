@@ -808,7 +808,7 @@ img {
   position: relative;
   float: left;
   padding: 27px 100px 27px 50px;
-  background: #462b34;
+  background: #ffffff;
   margin-right: 75px;
   border-bottom-right-radius: 50px;
 }
@@ -9519,6 +9519,7 @@ div#mCSB_1_container{
   line-height: 40px;
   font-weight: 700;
   margin-bottom: 22px;
+  margin-top: 32px;
 }
 
 .service-details-content .content-four .inner-box .list-item li{
