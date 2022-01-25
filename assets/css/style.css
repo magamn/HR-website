@@ -165,7 +165,7 @@ p{
   line-height: 28px;
   font-family: 'Muli', sans-serif;
   font-weight: 400;
-  color: #766068;
+  color: #1A353E;
   margin: 0px;
   transition: all 500ms ease;
 }
@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5,h6{
   position:relative;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
-  color: #462b34;
+  color: #1A353E;
   margin: 0px;
   transition: all 500ms ease;
 }
@@ -250,7 +250,7 @@ h1,h2,h3,h4,h5,h6{
   top: 0;
   width: 100%;
   height: 100%;
-  background: #29191f;
+  background: #2d9297;
 }
 
 
@@ -290,10 +290,10 @@ img {
   line-height: 26px;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 700;
-  color: #fff !important;
+  color: #fff!important;
   border-radius: 4px;
   text-align: center;
-  background: #462b34;
+  background: #2d9297;
   padding: 15px 44px;
   text-transform: uppercase;
   z-index: 1;
@@ -434,7 +434,7 @@ img {
   font-family: 'Nunito Sans', sans-serif;
   z-index: 99;
   color: #ffffff;
-  background: #3e252d;
+  background: #2d9297;
   border-radius: 5px;
   text-align: center;
   cursor: pointer;
@@ -598,7 +598,7 @@ img {
   position: relative;
   width: 100%;
   padding: 0px 50px;
-  border-bottom: 1px solid #2d9297;
+  border-bottom: 1px solid #CDCDCD;
 }
 
 .main-header .header-top .top-inner{
@@ -619,7 +619,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding: 11px 30px 11px 30px;
+  padding: 11px 20px 11px 20px;
   border-left: 1px solid #eae0d9;
   border-right: 1px solid #eae0d9;
 }
@@ -656,12 +656,12 @@ img {
 .main-header .header-top .left-info li p{
   font-size: 15px;
   line-height: 20px;
-  color: #766068;
+  color: #1A353E;
   font-weight: 600;
 }
 
 .main-header .header-top .left-info li p a{
-  color: #766068;
+  color: #1A353E;
 }
 
 .main-header .header-top .left-info li p a:hover{
@@ -713,11 +713,11 @@ img {
   width: 24px;
   height: 24px;
   line-height: 24px;
-  background: #f0e6e0;
+  background: #E9E9E9;
   text-align: center;
   border-radius: 5px;
   font-size: 10px;
-  color: #462b34;
+  color: #1A353E;
   cursor: pointer;
   z-index: 1;
   margin: 0px 2.5px;
@@ -748,7 +748,7 @@ img {
 }
 
 .main-header .header-top .location-box .apply-btn a:hover{
-  color: #462b34;
+  color: #2d9297;
 }
 
 .main-header .header-top .right-info .list{
@@ -768,7 +768,7 @@ img {
 }
 
 .main-header .header-top .right-info .list li a{
-  color: #766068;
+  color: #1A353E;
 }
 
 .main-header .header-top .right-info .list li a:hover{
@@ -787,7 +787,7 @@ img {
 }
 
 .main-header .header-top .right-info .social-links li a{
-  color: #462b34;
+  color: #1A353E;
 }
 
 .main-header .header-top .right-info .social-links li a:hover{
@@ -811,7 +811,6 @@ img {
   background: #ffffff;
   margin-right: 75px;
   border-bottom-right-radius: 50px;
-  border-bottom: 2px solid #2d9297;
 }
 
 .main-header .menu-right-content{
@@ -849,7 +848,7 @@ img {
 .main-header .language .lang-btn{
   position:relative;
   display: inline-block;
-  background: #f0e6e0;
+  background: #E9E9E9;
   padding: 12px 15px 13px 14px;
   border-radius: 4px;
   height: 56px;
@@ -860,7 +859,7 @@ img {
   position: relative;
   display: inline-block;
   font-size: 18px;
-  color: #462b34;
+  color: #383838;
   margin-right: 5px;
 }
 
@@ -888,7 +887,7 @@ img {
   left: 0;
   top: 100%;
   width: 150px;
-  background: #462b34;
+  background: #E9E9E9;
   padding: 5px 0px;
   opacity: 0;
   visibility: hidden;
@@ -925,12 +924,12 @@ img {
   padding: 5px 15px;
   font-size: 14px;
   line-height: 24px;
-  color: #fff;
+  color: #1A353E;
   text-align: left;
 }
 
 .main-header .language .lang-dropdown li a:hover{
-  
+  color: #2d9297;
 }
 
 
@@ -975,7 +974,7 @@ img {
   font-weight:700;
   opacity:1;
   font-family: 'Nunito Sans', sans-serif;
-  color:#462b34;
+  color:#1A353E;
   z-index:1;
   padding-right: 17px;
   text-transform: uppercase;
@@ -1051,7 +1050,7 @@ img {
   opacity: 0;
   visibility: hidden;
   padding: 10px 0px;
-  background-color: #462b34;
+  background-color: #E9E9E9;
   border-radius: 0px 0px 10px 10px;
   -moz-transform: translateY(30px);
   -webkit-transform: translateY(30px);
@@ -1093,7 +1092,7 @@ img {
   font-family: 'Nunito Sans', sans-serif;
   font-size:15px;
   text-transform:capitalize;
-  color: rgba(255,255,255,0.5);
+  color: #1A353E;
   border-bottom: 1px solid rgba(255,255,255,0.2);
   text-align: left;
   transition:all 500ms ease;
@@ -1104,12 +1103,12 @@ img {
 }
 
 .main-menu .navigation > li > .megamenu li > a:hover{
-  color: #fff;
+  color: #2d9297;
 }
 
 .main-menu .navigation > li > ul > li > a:hover{
   padding-left: 18px;
-  color: #fff;
+  color:#2d9297;
 }
 
 .main-menu .navigation > li > ul > li > a:before{
@@ -1120,7 +1119,7 @@ img {
   left: 0px;
   font-family: 'Font Awesome 5 Free';
   font-size: 12px;
-  color: #fff;
+  color: #1A353E;
   font-weight: 700;
   opacity: 0;
   transform: rotate(20deg);
@@ -1130,6 +1129,7 @@ img {
 .main-menu .navigation > li > ul > li > a:hover:before{
   top: 11px;
   opacity: 1;
+  color:#2d9297;
 }
 
 .main-menu .navigation > li > ul > li:last-child > a,
@@ -2123,7 +2123,7 @@ div#mCSB_1_container{
 }
 
 .bg-color-1{
-  background: #462b34;
+  background: #E9E9E9;
 }
 
 
@@ -2934,7 +2934,7 @@ div#mCSB_1_container{
 
 #content_block_4 .content-box .inner-box .single-item .inner h3 a{
   display: inline-block;
-  color: #462b34;
+  color: #1A353E;
 }
 
 #content_block_4 .content-box .inner-box .single-item .inner h3 a:hover{
@@ -4069,14 +4069,14 @@ div#mCSB_1_container{
   position: relative;
   font-size: 22px;
   line-height: 30px;
-  color: #fff;
+  color: #2D9297;
   font-weight: 700;
 }
 
 .footer-top .about-widget .text p{
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: #1A353E;
   font-weight: 500;
   margin-bottom: 15px;
 }
@@ -4115,14 +4115,17 @@ div#mCSB_1_container{
   font-size: 18px;
   line-height: 28px;
   font-weight: 700;
-  color: #fff;
+  color: #1A353E;
 }
 
 .footer-top .about-widget .social-links li a{
   position: relative;
   display: inline-block;
   font-size: 14px;
-  color: #fff;
+  color: #1A353E;
+}
+.footer-top .about-widget .social-links li a:hover{
+  color: #2d9297;
 }
 
 .footer-top .links-widget .links-list li{
@@ -4138,12 +4141,12 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: #1A353E;
   font-weight: 500;
 }
 
 .footer-top .links-widget .links-list li a:hover{
-
+color: #2d9297;
 }
 
 .footer-top .contact-widget .info-box li{
@@ -4156,12 +4159,12 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: #1A353E;
   font-weight: 500;
 }
 
 .footer-top .contact-widget .info-box li a:hover{
-
+color: #2d9297;
 }
 
 .footer-top .contact-widget .single-info-box{
@@ -4188,7 +4191,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 22px;
   line-height: 30px;
-  color: #fff;
+  color: #1A353E;
   font-weight: 700;
 }
 
@@ -4206,14 +4209,14 @@ div#mCSB_1_container{
   padding: 10px 0px;
   padding-right: 160px;
   font-size: 17px;
-  color: #ae979f;
+  color: #1A353E;
   font-weight: 500;
   background: transparent;
   transition: all 500ms ease;
 }
 
 .main-footer .footer-subscribe .subscribe-form .form-group input::-webkit-input-placeholder{
-  color:#ae979f;
+  color:#1A353E;
 }
 
 .main-footer .footer-subscribe .subscribe-form .form-group button{
@@ -4224,7 +4227,7 @@ div#mCSB_1_container{
   line-height: 24px;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 700;
-  color: #fff;
+  color: #1A353E;
   text-transform: uppercase;
   background: transparent;
   cursor: pointer;
@@ -4241,11 +4244,12 @@ div#mCSB_1_container{
 
 .main-footer .footer-subscribe .subscribe-form .form-group button:hover,
 .main-footer .footer-subscribe .subscribe-form .form-group input:focus + button{
+color: #2d9297;
 
 }
 
 .main-footer .footer-subscribe .subscribe-form .form-group input:focus{
-
+  border-bottom: 1px solid #2d9297 !important;
 }
 
 .footer-bottom{
@@ -4256,12 +4260,12 @@ div#mCSB_1_container{
 .footer-bottom .copyright p{
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: #1A353E;
   font-weight: 500;
 }
 
 .footer-bottom .copyright p a{
-  color: #ae979f;
+  color: #1A353E;
 }
 
 .footer-bottom .copyright p a:hover{
@@ -4282,12 +4286,12 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: #1A353E;
   font-weight: 500;
 }
 
 .footer-bottom .footer-nav li a:hover{
-
+  color: #2d9297;
 }
 
 .main-footer .pattern-layer{
@@ -9527,14 +9531,14 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   padding: 20px 50px 22px 80px;
-  background: #f0e6e0;
+  background: #E9E9E9;
   border-radius: 10px;
   margin-bottom: 20px;
   transition: all 500ms ease;
 }
 
 .service-details-content .content-four .inner-box .list-item li:hover{
-  background: #462b34;
+  background: #2d9297;
 }
 
 .service-details-content .content-four .inner-box .list-item li:last-child{
@@ -9667,7 +9671,7 @@ div#mCSB_1_container{
   width: calc(100% - 60px);
   padding: 26px 40px 21px 30px;
   border-top-right-radius: 10px;
-  background: #462b34;
+  background: #1A353E;
   opacity: 0;
   transition: all 500ms ease;
 }
@@ -9706,7 +9710,7 @@ div#mCSB_1_container{
   font-size: 12px;
   line-height: 20px;
   font-weight: 700;
-  color: #ae979f;
+  color: #E9E9E9;
   text-transform: uppercase;
   margin-bottom: 9px;
 }
@@ -9740,7 +9744,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 30px;
-  color: #462b34;
+  color: #1A353E;
   font-weight: 400;
   margin: 0px;
   cursor: pointer;
@@ -9771,7 +9775,7 @@ div#mCSB_1_container{
   font-size: 20px;
   line-height: 28px;
   font-family: 'Nunito Sans', sans-serif;
-  color: #462b34;
+  color:  #1A353E;
   font-weight: 700;
   padding: 24px 30px 22px 30px;
   border-bottom: 1px solid #fff;
@@ -9878,7 +9882,7 @@ div#mCSB_1_container{
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #462b34;
+  color: #2d9297;
 }
 
 .service-sidebar .recruitment-widget .widget-content .link a i{
@@ -9932,12 +9936,12 @@ div#mCSB_1_container{
   display: block;
   width: 100%;
   height: 54px;
-  background: #f0e6e0;
+  background: #E9E9E9;
   border-radius: 5px;
   padding: 10px 20px;
   font-size: 17px;
   font-weight: 500;
-  color: #766068;
+  color: #989898;
 }
 
 .service-sidebar .subscribe-widget .subscribe-form .form-group{
@@ -9955,16 +9959,16 @@ div#mCSB_1_container{
 
 .service-sidebar .subscribe-widget .subscribe-form .nice-select{
   border: none !important;
-  background: #f0e6e0;
+  background: #E9E9E9;
   height: 54px;
   font-size: 17px;
   font-weight: 500;
-  color: #766068;
+  color: #989898;
 }
 
 .service-sidebar .subscribe-widget .subscribe-form .nice-select:after{
-  border-bottom: 2px solid #7e6970;
-  border-right: 2px solid #7e6970;
+  border-bottom: 2px solid #989898;
+  border-right: 2px solid #989898;
 }
 
 .service-sidebar .subscribe-widget .subscribe-form button{

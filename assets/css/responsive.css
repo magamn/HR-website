@@ -23,13 +23,13 @@
 @media only screen and (max-width: 1749px){
 
   .main-header .header-top .location-box{
-    border-left: none;
-    border-right: none;
+    border-left: 1px solid #CDCDCD;;
+    border-right: 1px solid #CDCDCD;;
   }
 
-  .main-header .header-top .right-info{
+  /* .main-header .header-top .right-info{
     width: 100%;
-  }
+  } */
 
   .main-header .outer-box{
     position: relative;
@@ -42,7 +42,7 @@
   }
 
   .main-header .logo-box{
-    float: none;
+    float: left;
     margin-right: 0px;
     border-radius: 0px;
   }
@@ -74,11 +74,11 @@
   }
 
   .main-header .menu-right-content .theme-btn-one{
-    background: #ff5956;
+    background: #2D9297;
   }
 
   .main-header .menu-right-content .theme-btn-one:hover{
-    color: #ff5956 !important;
+    color: #2D9297 !important;
   }
 
   .main-header .menu-right-content .theme-btn-one:after{
